@@ -4,7 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 this is dev branch.
-test stash
 
+这个是开发分支，用于测试stash功能
 
 爱的一方注定卑微一点，但也别贱的只剩下骨头
